@@ -3,4 +3,6 @@
   <groupId>pl.TSioma</groupId>
   <artifactId>EasyHomeBudget</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+   <description>It is a simple program to make home budget</description>
 </project>
